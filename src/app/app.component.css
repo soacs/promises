@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  background: lightskyblue;
+  height: 300px;
+  width:100%;
+  flex-direction:column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  background: lightgreen;
+  height: 100px;
+  width:100%;
+  flex-direction:row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  align-items: center;
+}
